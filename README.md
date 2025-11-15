@@ -1,4 +1,4 @@
-#ECG SIGNAL PROCESSING TOOLKI
+#ECG SIGNAL PROCESSING TOOLKIT
 ## How to run
 1. Download repo
 2. Open `ECG_Filter_GUI_old.m`
